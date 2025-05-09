@@ -1,3 +1,3 @@
 1;Um;1
-2;Dois;2
-3;Tres;3
+2;Dois;3
+0;Zero;0
